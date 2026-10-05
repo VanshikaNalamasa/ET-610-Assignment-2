@@ -1,0 +1,8 @@
+feature_set,n_features,accuracy,balanced_accuracy,precision,recall,f1,roc_auc
+Demographics only,10,0.6017,0.5927,0.6481,0.6575,0.6527,0.6347
+Click volume only,3,0.6335,0.6245,0.6742,0.6896,0.6818,0.6664
+Volume + consistency (H1),10,0.6971,0.6814,0.7087,0.7946,0.7492,0.7469
+Volume + consistency + mix + earliness,21,0.7061,0.688,0.7099,0.8185,0.7603,0.7577
+Assessment timeliness only (H2),8,0.7293,0.7165,0.74,0.8089,0.7729,0.7895
+All behaviour (VLE + assessment),27,0.7469,0.7326,0.749,0.8354,0.7899,0.8186
+All features (behaviour + demographics),35,0.7497,0.7357,0.7519,0.8364,0.7919,0.8215

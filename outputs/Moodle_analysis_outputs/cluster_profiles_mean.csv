@@ -1,0 +1,4 @@
+cluster,n_interactions,mean_session_min,active_week_ratio,weekly_cv,longest_inactive_streak,rush_share,share_practice_quiz,share_graded_quiz,share_learning_content,night_share,weekend_share,first_access_day,n_sessions,active_days,median_session_min,events_per_session,trend_slope,peak2_share,days_since_last_active,first_assessment_day,quiz_attempts_submitted,assignments_submitted,share_assignment,share_social,share_navigation
+1,801.188,19.215,0.416,2.935,35.229,0.176,0.037,0.11,0.514,0.222,0.333,18.708,24.938,16.875,4.684,48.325,-0.006,0.748,26.458,71.729,3.812,1.0,0.033,0.018,0.288
+2,764.449,10.785,0.693,1.767,20.667,0.194,0.101,0.125,0.283,0.219,0.298,5.513,58.115,37.462,2.029,18.941,-0.02,0.482,16.936,45.128,4.538,2.564,0.092,0.01,0.389
+3,186.571,10.028,0.312,2.999,37.857,0.253,0.003,0.343,0.18,0.15,0.419,29.429,14.343,11.257,3.192,24.074,0.015,0.777,35.829,93.457,2.171,0.714,0.067,0.003,0.405

@@ -1,0 +1,13 @@
+feature,family,eta_squared
+active_week_ratio,consistency,0.5872
+weekly_cv,consistency,0.4883
+share_learning_content,content mix,0.4599
+share_graded_quiz,content mix,0.3585
+mean_session_min,volume,0.2833
+n_interactions,volume,0.2429
+longest_inactive_streak,consistency,0.2097
+first_access_day,timing,0.2076
+share_practice_quiz,content mix,0.1561
+weekend_share,timing,0.0358
+rush_share,timing,0.0193
+night_share,timing,0.0179

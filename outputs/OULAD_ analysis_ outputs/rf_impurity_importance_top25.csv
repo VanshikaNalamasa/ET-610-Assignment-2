@@ -1,0 +1,26 @@
+,0
+num__mean_score,0.2039543982369607
+num__days_since_last_active,0.09661907395346783
+num__active_week_ratio,0.050014328264477124
+num__weekly_cv,0.04913499790137648
+num__submission_rate,0.048392954631471266
+num__active_days,0.04498587252260413
+num__mean_latency,0.04477605699691035
+num__trend_slope,0.03105846756908531
+cat__code_module_GGG,0.030561413906935352
+num__total_clicks,0.029386009760634296
+num__share_subpage,0.026776314917749015
+num__share_resource,0.02269985970812793
+num__share_oucontent,0.022432997793533357
+num__share_homepage,0.021533839260700557
+num__registration_lead_days,0.020686398160930358
+num__share_forumng,0.019394782278555543
+num__share_other,0.019153115373307345
+num__share_url,0.019063178456136098
+num__pre_course_clicks,0.018150809082678417
+num__share_quiz,0.017684770091542054
+num__studied_credits,0.017394681271120673
+num__longest_gap_days,0.017324619934765202
+num__n_submitted,0.015816483299053972
+num__first_access_day,0.01453494934161646
+cat__highest_education_Lower Than A Level,0.010862063368248335

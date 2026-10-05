@@ -1,0 +1,14 @@
+,coef,odds_ratio,p_value
+Intercept,0.837,2.3093,0.0
+C(code_module)[T.BBB],-0.1303,0.8778,0.2027
+C(code_module)[T.CCC],-0.8956,0.4084,0.0
+C(code_module)[T.DDD],-1.3421,0.2613,0.0
+C(code_module)[T.EEE],-0.8388,0.4322,0.0
+C(code_module)[T.FFF],-1.4488,0.2348,0.0
+C(code_module)[T.GGG],2.6847,14.6534,0.0
+log_total_clicks_z,0.5389,1.7142,0.0
+weekly_cv_z,-0.242,0.785,0.0
+active_week_ratio_z,0.3037,1.3549,0.0
+longest_gap_days_z,0.0149,1.015,0.3834
+mean_latency_z,-0.1679,0.8455,0.0
+submission_rate_z,0.9183,2.5049,0.0

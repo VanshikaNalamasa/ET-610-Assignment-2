@@ -1,0 +1,12 @@
+,value
+rush_weeks,W13-W14
+rush_dates_start,22 Jan
+expected_share_if_uniform,0.08
+observed_share,0.18293300224440093
+concentration_ratio,2.2866625280550115
+ci95_low,0.15294667357113095
+ci95_high,0.2171315779447076
+median_learner_rush_share,0.13416536661466458
+learners_with_rush_share_gt_2x_expected,0.4393063583815029
+learners_with_rush_share_gt_50pct,0.12716763005780346
+median_peak2_share,0.6205298013245033
